@@ -13,3 +13,9 @@ employees:
   email: ryan.howard@noaa.gov
   supervisor:
   - Michael Scott
+- name: Emma Russell
+  email: emma.russell@noaa.gov
+  mentors:
+  - Vijay Tallapragada
+  - Xingren Wu
+  - Keqin Wu
